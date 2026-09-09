@@ -1,0 +1,13 @@
+{
+  "name": "genpark-dgim-sliding-window-bit-counter-skill",
+  "version": "1.0.0",
+  "description": "Datar-Gionis-Indyk-Motwani (DGIM) streaming algorithm for estimating frequency and bit counts over massive sliding windows in logarithmic memory.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "dgim-algorithm",
+    "sliding-window-count",
+    "streaming-algorithms",
+    "probabilistic-data-structures"
+  ]
+}
